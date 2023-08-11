@@ -1,6 +1,6 @@
-<img src="https://images.unsplash.com/photo-1491466424936-e304919aada7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8fA%3D%3D&w=1000&q=80" width="1010" height="400">
+<img src="https://images.unsplash.com/photo-1491466424936-e304919aada7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8fA%3D%3D&w=1000&q=80" width="1010" height="350">
 <h1 align="center">Hi 👋, I'm Adrijan Brajo</h1>
-<h3 align="center">I'm a Junior Software Enginer, with knowledge of SDLC fundamentals and competency in Python 🐍.</h3>
+<h3 align="center">I'm a Junior Software Enginer, with knowledge of SDLC fundamentals and competency in Python 🐍</h3>
 
 - 💼 I’m currently looking for a new role as a Software Engineer, Quality Assurance Engineer or Data Analyst.
 
